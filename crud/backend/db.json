@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tufao Araujo",
+      "email": "narcizo@cod3r.com.br"
+    },
+    {
+      "name": "Patrick Reis",
+      "email": "Pr-stronda@gmail.com",
+      "id": 3
+    }
+  ]
+}
