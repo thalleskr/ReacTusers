@@ -2,13 +2,18 @@
   "users": [
     {
       "id": 1,
-      "name": "Tufao Araujo",
-      "email": "narcizo@cod3r.com.br"
+      "name": "Thalles Rangel",
+      "email": "thallicuto@hotmail.com.br"
     },
     {
       "name": "Patrick Reis",
       "email": "Pr-stronda@gmail.com",
       "id": 3
+    },
+    {
+      "name": "Vanilda",
+      "email": "legnar77@gmail.com",
+      "id": 4
     }
   ]
 }
