@@ -4,7 +4,7 @@
 
 ## 📗 About
 
-**Parking-Spot** is a project created to control parking spaces in a condominium complex.
+**ReacTusers** is a basic project created to exemplify the construction of a register, produced in React!
 ## 🔨 Tools
 
 -   [ ] React
@@ -14,9 +14,8 @@
 -   [ ] Json-server
 
 ## 🛠️ Features
-- Submission of registration for parking space.
-- List of all parking spaces sent in pagination form.
-- Validation for creating, updating and deleting a specific parking space.
+- Register, update and delete users.
+- List all user.
 
 ## Executando o projeto
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
